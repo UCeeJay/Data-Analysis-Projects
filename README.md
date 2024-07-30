@@ -1,2 +1,2 @@
-# Data-Analysis-Projects
-A profile of my projects as a Data Analyst.
+# Data-Cleaning-Inspecting-and-Wrangling-the-FIFA-21-Data-Using-Python’s-Jupyter-Lab
+Data Cleaning Inspecting and Wrangling the FIFA 21 Data Using Python’s Jupyter Lab
